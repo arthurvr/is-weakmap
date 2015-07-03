@@ -1,31 +1,3 @@
-# is-weakmap [![Build Status](https://travis-ci.org/arthurvr/is-weakmap.svg?branch=master)](https://travis-ci.org/arthurvr/is-weakmap)
+# Fag
 
-> Node module to easily check if an object is an [ES6 `WeakMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
-
-## Installation
-
-```
-$ npm install is-weakmap --save
-```
-
-## Usage
-
-```javascript
-var isWeakMap = require('is-weakmap');
-
-isWeakMap(new WeakMap());
-//=> true
-
-isWeakMap({});
-//=> false
-```
-
-## Related
-
-* [`is-map`](https://github.com/arthurvr/is-map)
-* [`is-set`](https://github.com/arthurvr/is-set)
-* [`is-weakset`](https://github.com/arthurvr/is-weakset)
-
-## License
-
-MIT © Arthur Verschaeve
+![](http://36.media.tumblr.com/bdff0970241608abc706c576a90e244a/tumblr_nqg7gdikXz1urbdp3o1_1280.jpg)
